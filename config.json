@@ -1,0 +1,11 @@
+{
+    "priveteKey": "Sender_Address_Private_Key",
+    "RPCEndpoint": "infura_url_or_binance_url",
+    "tokenAddress": "address_of_token_to_be_send",
+    "SenderAddress": "Sender_address",
+    "botToken": "Telegram_bot_token_from_botfather",
+    "groupID": "@GroupUserName",
+    "channelID": "@ChannelUserName",
+    "RefAirdropAmount": 15,
+    "AirdropAmount": 10
+}
